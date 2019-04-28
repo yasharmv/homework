@@ -1,0 +1,34 @@
+*{box-sizing: border-box;
+}
+.bashliq h1 {
+    position: relative;
+    left: 40%;
+    top: 44px;
+    padding: 9px;
+    color: rgb(44, 44, 82);
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+    
+}
+.container {
+width: 1170px;
+margin: 0 auto;
+}
+
+.slider {
+width: 100px;    
+float: left;
+width: 25%;    
+padding: 5px;
+margin-top: 30px;
+}
+.slider .item {
+    position: relative;
+}
+
+.slider .item img {
+max-width: 100%;
+width: 250px;
+height: 461px;
+}
